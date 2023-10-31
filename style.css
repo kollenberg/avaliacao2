@@ -1,0 +1,52 @@
+body{
+    background:green ;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+p{
+   text-align: center;
+   font-size: 30px;
+   color: red;
+}
+img{
+    width: 300px;
+    margin-left: 100px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue (165, 131, 123);
+}
+ul{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+li{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+.cabecalho{
+       background-color: bisque(139, 91, 86);
+}
+.logobarbearia{
+    width: 150px !important;
+    height: 150px !important;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 250px;
+}
+.item_lista_cabecalho{
+    color: brown;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 10px;
+}
